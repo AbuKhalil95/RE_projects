@@ -3,62 +3,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ma'an Development Area",
-        "province": "Ma'an",
-        "Type": "PV"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              35.806652,
-              30.163571,
-              0
-            ],
-            [
-              35.806309,
-              30.150732,
-              0
-            ],
-            [
-              35.80588,
-              30.14472,
-              0
-            ],
-            [
-              35.80588,
-              30.140934,
-              0
-            ],
-            [
-              35.829226,
-              30.130245,
-              0
-            ],
-            [
-              35.838925,
-              30.143087,
-              0
-            ],
-            [
-              35.817639,
-              30.1632,
-              0
-            ],
-            [
-              35.806652,
-              30.163571,
-              0
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "06b612bdde996d064fa570d23c51d08c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Jordan Solar One",
         "description": "20 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Adenium Energy Capital, KEC and Etihad Bank .<br>irbid",
         "province": "Irbid",
