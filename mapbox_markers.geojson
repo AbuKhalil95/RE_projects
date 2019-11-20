@@ -25,7 +25,7 @@
       "properties": {
         "name": "Sun-Edison",
         "description": "20 MW PV generation capacity.<br>Contracted by Sun Edison ITALIA Construction S.R.L..<br>Operating since 2016.<br>Owned by Alcazar (previosuly Sun Edison).",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -65,7 +65,7 @@
       "properties": {
         "name": "Fujeij Wind Power Plant",
         "description": "The 89 MW generational capacity wind power plant was constructed by Vestas and started operating in 2019. Owned by Korea Electric Power Corporation.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "Wind",
         "project-type": "direct-proposal",
         "status": "operational"
@@ -85,7 +85,7 @@
       "properties": {
         "name": "Falcon Ma’an Solar Power",
         "description": "20 MW PV generation capacity.<br>Contracted by Enerray S.P.A. .<br>Operating since 2016.<br>Owned by Catalyst Private Equity (Falcon Ma’an Solar Power).",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -205,7 +205,7 @@
       "properties": {
         "name": "European Jordanian Renewable Energy Project ",
         "description": "20 MW PV generation capacity.<br>Contracted by Scatec Solar.<br>Operating since August of 2016.<br>Owned by EJRE Projects.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -225,7 +225,7 @@
       "properties": {
         "name": "Alzanbaq",
         "description": "10 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Clean Energy Concepts, Adenium Energy Capital, KEC and Etihad Bank.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -245,7 +245,7 @@
       "properties": {
         "name": "Alward Aljoury",
         "description": "10 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Adenium Energy Capital, KEC and Etihad Bank .",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -285,7 +285,7 @@
       "properties": {
         "name": "Alrajif Wind Farm",
         "description": "Constructed by Gamesa, the 86 MW wind farm started operating in 2018 and is owned by Alcazar-Green Watt.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "Wind",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -305,7 +305,7 @@
       "properties": {
         "name": "Zahrat Alsalam",
         "description": "10 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Adenium Energy Capital, KEC and Etihad Bank .",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -325,7 +325,7 @@
       "properties": {
         "name": "Shobak Wind Farm",
         "description": "An under-construction wind farm by Vestas, this 45 MW power plant is owned in percentage by Alcazar Energy: 90%; and Hecate Energy LLC: 10% and is expected to start operating in 2019.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "Wind",
         "project-type": "direct-proposal-round1",
         "status": "under-construction"
@@ -365,7 +365,7 @@
       "properties": {
         "name": "Green Land Alternative Energy Project",
         "description": "10 MW PV generation capacity.<br>Contracted by Scatec Solar.<br>Operating since June 2016.<br>Owned by Scatec Solar ASA Green Land Alternative Energy.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -425,7 +425,7 @@
       "properties": {
         "name": "Oryx",
         "description": "10 MW PV generation capacity.<br>Contracted by Scatec Solar.<br>Operating since June of 2016.<br>Owned by Scatec Solar Quest Energy Investment LLC.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -445,7 +445,7 @@
       "properties": {
         "name": "Maan Wind Farm",
         "description": "Operating since 2016, this farm is at a generational capacity of 80 MW. Constructed by Elecnor and owned by MEMR.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "Wind",
         "project-type": "Gulf Grant",
         "status": "operational"
