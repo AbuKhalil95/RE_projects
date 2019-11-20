@@ -505,7 +505,7 @@
       "properties": {
         "name": "Shams Ma'an ",
         "description": "50 MW PV generation capacity.<br>Contracted by First Solar.<br>Operating since September of 2016.<br>Owned by Shams Ma’an Power Generation PSC (Diamond Generating Europe Limited, Nebras Power Q.S.C, Kawar Group).",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
@@ -585,7 +585,7 @@
       "properties": {
         "name": "Arabia one ",
         "description": "10 MW PV generation capacity.<br>Operating since August of 2016.<br>Owned by Arabia Trading & Consulting Co 30% Hanhwa E&C 30% Ennera (CAF) 40%.",
-        "province": "Ma'an",
+        "province": "Maan",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
         "status": "operational"
