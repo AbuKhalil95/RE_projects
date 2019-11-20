@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jordan Solar One",
-        "description": "20 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Adenium Energy Capital, KEC and Etihad Bank .<br>irbid",
+        "description": "<b>Size:</b>20 MW PV generation capacity.<br>Contracted by Martifer Solar.<br>Operating since September of 2016.<br>Owned by Adenium Energy Capital, KEC and Etihad Bank .<br>irbid",
         "province": "Irbid",
         "Type": "PV",
         "project-type": "direct-proposal-round1",
