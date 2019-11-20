@@ -406,7 +406,7 @@
         "name": "Al-Ghabawi Landfill biogas power plant",
         "description": "A landfill repurposed to produce biogas and generate power at a capacity of 5 MW.<br>The project was contracted to CNTY China,  Christopher D. Constantinidis S.A. – HELECTOR S.A and i-frantzis associates Ltd. It started operating in 2019 and is owned by the Greater Amman Municipality in coordination with MEMR.",
         "province": "Amman",
-        "Type": "Natural_Gas",
+        "Type": "BioGas",
         "project-type": "loan",
         "status": "operational"
       },
@@ -606,7 +606,7 @@
         "name": "Jordan Biogas Company‎",
         "description": "Operating since 2003, the company generates electricity at a 3.5 MW capacity.",
         "province": "Zarqa",
-        "Type": "Natural_Gas",
+        "Type": "BioGas",
         "project-type": "unknown",
         "status": "operational"
       },
