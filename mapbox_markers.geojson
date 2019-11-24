@@ -46,7 +46,126 @@
     "cod":"",
     "note":""
     }
+  },{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.288387,32.341762,0 ]
+    },
+    "properties": {
+    "name":"ACWA PV Project",
+    "province":"Mafraq",
+    "type":"pv",
+    "project-type":"direct-proposal-round2",
+    "status":"operational",
+    "dc":null,
+    "ac":50,
+    "price":4.34491,
+    "location":"Mafraq Development Area",
+    "owner":"ACWA Power",
+    "epc":" ET Solutions",
+    "invest":"80",
+    "cod":"19-Jan",
+    "note":""
+    }
   },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.691942,32.181345,0 ]
+    },
+    "properties": {
+    "name":"Al Badiya Philadelphia",
+    "province":"Mafraq",
+    "type":"pv",
+    "project-type":"direct-proposal",
+    "status":"operational",
+    "dc":null,
+    "ac":20,
+    "price":null,
+    "location":"Mafraq",
+    "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
+    "epc":"Philadelphia\nSolar",
+    "invest":"42",
+    "cod":"Phase I : 10 MW 22/10/2015 \nPhase II: 10MW + 12.6MWh storage  18/2/2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.024473,32.091012,0 ]
+    },
+    "properties": {
+    "name":"Al Safawi Arabia Two Solar PV Plant",
+    "province":"Mafraq",
+    "type":"pv",
+    "project-type":"direct-proposal-round2",
+    "status":"operational",
+    "dc":67,
+    "ac":51,
+    "price":4.59784,
+    "location":"Mafraq / Alsafawi",
+    "owner":" Green Energy PSC (FRV 70% + ATC30%)",
+    "epc":"TSK",
+    "invest":"80",
+    "cod":"2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.185138,31.930388,0 ]
+    },
+    "properties": {
+    "name":"Al-Ghabawi Landfill biogas power plant",
+    "province":"Amman",
+    "type":"bio-gas",
+    "project-type":"loan",
+    "status":"operational",
+    "dc":null,
+    "ac":5,
+    "price":null,
+    "location":"Amman - AlGhabawi",
+    "owner":"Greater Amman Municipilty in coordenation with MEMR",
+    "epc":"CNTY China Christopher D. Constantinidis S.A.- HELECTOR S.A\ni-frantzis associates Ltd",
+    "invest":"Cell 1&3: 30,10by GAM Cell5: 3.25JD by ERBD & 45 GBP investment",
+    "cod":"2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35842,29.735642,0 ]
+    },
+    "properties": {
+    "name":"Al-Qwerah PV Plant - Gulf Grant",
+    "province":"Aqaba",
+    "type":"pv",
+    "project-type":"grant",
+    "status":"operational",
+    "dc":103,
+    "ac":89,
+    "price":null,
+    "location":" Aqaba - AlQwerah",
+    "owner":"MEMR",
+    "epc":"TSK + Enviromena",
+    "invest":"150",
+    "cod":"18-Jul",
+    "note":""
+    }
+  }
+]
+}
   {
     "type": "Feature",
     "geometry": {
