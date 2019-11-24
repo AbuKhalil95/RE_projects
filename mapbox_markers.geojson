@@ -79,7 +79,7 @@
     "properties": {
     "name":"Al-Ghabawi Landfill biogas power plant",
     "province":"Amman",
-    "type":"bio-gas",
+    "type":"biogas",
     "project-type":"loan",
     "status":"operational",
     "dc":null,
@@ -470,7 +470,7 @@
     "properties": {
     "name":"Jordan Biogas Company",
     "province":"Zarqa",
-    "type":"bio-gas",
+    "type":"biogas",
     "project-type":"unknown",
     "status":"operational",
     "dc":null,
