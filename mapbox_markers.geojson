@@ -5,12 +5,12 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.288387,32.341762 ]
+       "coordinates":  [ 36.288387,32.341762,0 ]
     },
     "properties": {
     "name":"ACWA PV Project",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round2",
     "status":"operational",
     "dc":null,
@@ -19,7 +19,7 @@
     "location":"Mafraq Development Area",
     "owner":"ACWA Power",
     "epc":" ET Solutions",
-    "invest":"80",
+    "invest":80,
     "cod":"19-Jan",
     "note":""
     }
@@ -33,7 +33,7 @@
     "properties": {
     "name":"Al Badiya Philadelphia",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal",
     "status":"operational",
     "dc":null,
@@ -42,8 +42,8 @@
     "location":"Mafraq",
     "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
     "epc":"Philadelphia\nSolar",
-    "invest":"42",
-    "cod":"Phase I : 10 MW 22/10/2015 \nPhase II: 10MW + 12.6MWh storage  18/2/2019",
+    "invest":42,
+    "cod":"",
     "note":""
     }
   },
@@ -56,7 +56,7 @@
     "properties": {
     "name":"Al Safawi Arabia Two Solar PV Plant",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round2",
     "status":"operational",
     "dc":67,
@@ -65,7 +65,7 @@
     "location":"Mafraq / Alsafawi",
     "owner":" Green Energy PSC (FRV 70% + ATC30%)",
     "epc":"TSK",
-    "invest":"80",
+    "invest":80,
     "cod":"2019",
     "note":""
     }
@@ -79,7 +79,7 @@
     "properties": {
     "name":"Al-Ghabawi Landfill biogas power plant",
     "province":"Amman",
-    "type":"biogas",
+    "tech":"biogas",
     "project-type":"loan",
     "status":"operational",
     "dc":null,
@@ -88,7 +88,7 @@
     "location":"Amman - AlGhabawi",
     "owner":"Greater Amman Municipilty in coordenation with MEMR",
     "epc":"CNTY China Christopher D. Constantinidis S.A.- HELECTOR S.A\ni-frantzis associates Ltd",
-    "invest":"Cell 1&3: 30,10by GAM Cell5: 3.25JD by ERBD & 45 GBP investment",
+    "invest":null,
     "cod":"2019",
     "note":""
     }
@@ -102,7 +102,7 @@
     "properties": {
     "name":"Al-Qwerah PV Plant - Gulf Grant",
     "province":"Aqaba",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"grant",
     "status":"operational",
     "dc":103,
@@ -111,7 +111,7 @@
     "location":" Aqaba - AlQwerah",
     "owner":"MEMR",
     "epc":"TSK + Enviromena",
-    "invest":"150",
+    "invest":150,
     "cod":"18-Jul",
     "note":""
     }
@@ -125,16 +125,16 @@
     "properties": {
     "name":"Alrajif Wind Farm",
     "province":"Maan",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":86,
     "ac":86,
     "price":null,
-    "location":"Ma'an - Al Rajif",
+    "location":"Maan - Al Rajif",
     "owner":"Alcazar - Green Watt",
     "epc":"Gamesa",
-    "invest":"183",
+    "invest":183,
     "cod":"2018",
     "note":""
     }
@@ -148,16 +148,16 @@
     "properties": {
     "name":"Alward Aljoury",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":10,
     "price":12,
     "location":"Maan Development Area (MDA)",
-    "owner":"Adenium Energy Capital, KEC and Etihad Bank ",
+    "owner":"",
     "epc":"Martifer Solar",
-    "invest":"18",
+    "invest":18,
     "cod":"16-Sep",
     "note":""
     }
@@ -171,16 +171,16 @@
     "properties": {
     "name":"Alzanbaq",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":10,
     "price":12,
     "location":"Maan Development Area (MDA)",
-    "owner":"Clean Energy Concepts, Adenium Energy Capital, KEC and Etihad Bank",
+    "owner":"",
     "epc":"Martifer Solar",
-    "invest":"16.5",
+    "invest":16.5,
     "cod":"16-Sep",
     "note":""
     }
@@ -192,18 +192,18 @@
        "coordinates":  [ 36.10157,31.90661,0 ]
     },
     "properties": {
-    "name":"AM Solar B.V./Jordan",
+    "name":"AM Solar B.V. Jordan",
     "province":"Amman",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal",
     "status":"under-development",
     "dc":null,
     "ac":50,
     "price":null,
-    "location":"East Amman\\Manakher",
-    "owner":"AES 60%\nMitsui 40%",
+    "location":"East Amman Manakher",
+    "owner":"AES 60% nMitsui 40%",
     "epc":"",
-    "invest":"50",
+    "invest":50,
     "cod":"2019",
     "note":""
     }
@@ -217,7 +217,7 @@
     "properties": {
     "name":"Arabia one",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
@@ -226,7 +226,7 @@
     "location":"Maan Development Area (MDA)",
     "owner":"\nArabia Trading & Consulting Co 30%\nHanhwa E&C 30%\nEnnera (CAF) 40%",
     "epc":"NA",
-    "invest":"17.5",
+    "invest":17.5,
     "cod":"16-Aug",
     "note":""
     }
@@ -240,7 +240,7 @@
     "properties": {
     "name":"Azraq  Solar PV  Power Plant",
     "province":"Zarqa",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"spanish-grant",
     "status":"operational",
     "dc":3,
@@ -249,7 +249,7 @@
     "location":"Azraq",
     "owner":"MEMR",
     "epc":"Ennera",
-    "invest":"6.95",
+    "invest":6.95,
     "cod":"15-Apr",
     "note":""
     }
@@ -263,7 +263,7 @@
     "properties": {
     "name":"Azraq camp Solar PV Power Plant",
     "province":"Zarqa",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"spanish-grant",
     "status":"operational",
     "dc":2.17,
@@ -272,7 +272,7 @@
     "location":"Azraq",
     "owner":"MEMR",
     "epc":"ATERSA",
-    "invest":"5",
+    "invest":5,
     "cod":"15-Apr",
     "note":""
     }
@@ -286,7 +286,7 @@
     "properties": {
     "name":"Baynoona PV Farm",
     "province":"Amman",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal",
     "status":"under-construction",
     "dc":247.595,
@@ -295,7 +295,7 @@
     "location":"East Amman",
     "owner":"70% MASDAR \n30% Taaleri",
     "epc":"",
-    "invest":"260",
+    "invest":260,
     "cod":"2019",
     "note":""
     }
@@ -309,7 +309,7 @@
     "properties": {
     "name":"Daihan Wind Farm",
     "province":"Tafileleh",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal-round1",
     "status":"under-development",
     "dc":51.75,
@@ -318,7 +318,7 @@
     "location":"Tafileh",
     "owner":"Daehan Wind Power Company (KOSPO + Daelim Energy)",
     "epc":"Vestas",
-    "invest":"102",
+    "invest":102,
     "cod":"2020",
     "note":""
     }
@@ -332,7 +332,7 @@
     "properties": {
     "name":"European Jordanian Renewable Energy Project",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
@@ -341,7 +341,7 @@
     "location":"Maan Development Area (MDA)",
     "owner":"EJRE Projects",
     "epc":"Scatec Solar",
-    "invest":"33",
+    "invest":33,
     "cod":"16-Aug",
     "note":""
     }
@@ -355,7 +355,7 @@
     "properties": {
     "name":"Expansion of Azraq PV plant project",
     "province":"Zarqa",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"spanish-grant",
     "status":"operational",
     "dc":5.74,
@@ -364,7 +364,7 @@
     "location":"Azraq",
     "owner":"MEMR",
     "epc":"",
-    "invest":"5.8",
+    "invest":5.8,
     "cod":"",
     "note":""
     }
@@ -378,16 +378,16 @@
     "properties": {
     "name":"Falcon Maan Solar Power",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":,
     "ac":20,
     "price":12,
     "location":"Maan Development Area (MDA)",
-    "owner":"Catalyst Private Equity ",
+    "owner":"Catalyst Private Equity",
     "epc":"Enerray S.P.A.",
-    "invest":"32",
+    "invest":32,
     "cod":"2016",
     "note":""
     }
@@ -401,16 +401,16 @@
     "properties": {
     "name":"Fujeij Wind Power Plant",
     "province":"Maan",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal",
     "status":"operational",
     "dc":89.1,
     "ac":89.1,
     "price":null,
-    "location":"Ma'an Fujeij/Shobak ",
+    "location":"Maan Fujeij/Shobak ",
     "owner":"KEPCO",
     "epc":"Vestas",
-    "invest":"182",
+    "invest":182,
     "cod":"2019",
     "note":""
     }
@@ -424,16 +424,16 @@
     "properties": {
     "name":"Green Land Alternative Energy Project",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":10,
     "price":12,
     "location":"Maan Development Area (MDA)",
-    "owner":"Scatec Solar ASA \nGreen Land Alternative Energy \n",
+    "owner":"Scatec Solar ASA \nGreen Land Alternative Energy  (???? ??? ????? ?????? ?????? ???????)\n",
     "epc":"Scatec Solar",
-    "invest":"19",
+    "invest":19,
     "cod":"16-Jun",
     "note":""
     }
@@ -447,16 +447,16 @@
     "properties": {
     "name":"Ibrahimeyya Wind Farm",
     "province":"Irbid",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"unknown",
     "status":"operational",
     "dc":0.32,
     "ac":0.32,
     "price":null,
-    "location":"Irbid, Ibrahimeyya",
+    "location":"Irbid Ibrahimeyya",
     "owner":"MEMR",
     "epc":"",
-    "invest":"",
+    "invest":null,
     "cod":"1988",
     "note":""
     }
@@ -470,7 +470,7 @@
     "properties": {
     "name":"Jordan Biogas Company",
     "province":"Zarqa",
-    "type":"biogas",
+    "tech":"biogas",
     "project-type":"unknown",
     "status":"operational",
     "dc":null,
@@ -479,7 +479,7 @@
     "location":"Ruseifa",
     "owner":"Greater Amman Municipality",
     "epc":"",
-    "invest":"",
+    "invest":null,
     "cod":"2003",
     "note":""
     }
@@ -493,16 +493,16 @@
     "properties": {
     "name":"Jordan Solar One",
     "province":"Irbid",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":20,
     "price":12,
     "location":" Mafraq - Hosha",
-    "owner":"Adenium Energy Capital, KEC and Etihad Bank ",
+    "owner":"Adenium Energy Capital KEC and Etihad Bank ",
     "epc":"Martifer Solar",
-    "invest":"52",
+    "invest":52,
     "cod":"16-Sep",
     "note":""
     }
@@ -516,7 +516,7 @@
     "properties": {
     "name":"King Talal Dam",
     "province":"Jerash",
-    "type":"hydro",
+    "tech":"hydro",
     "project-type":"unknown",
     "status":"operational",
     "dc":null,
@@ -525,7 +525,7 @@
     "location":"Jerash",
     "owner":"Jordan Valley Authority",
     "epc":"",
-    "invest":"",
+    "invest":null,
     "cod":"2015",
     "note":""
     }
@@ -539,18 +539,18 @@
     "properties": {
     "name":"Maan Wind Farm",
     "province":"Maan",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"gulf-grant",
     "status":"operational",
     "dc":80,
     "ac":80,
     "price":null,
-    "location":"Ma'an",
+    "location":"Maan",
     "owner":"MEMR",
     "epc":"Elecnor",
-    "invest":"150",
-    "cod":" Sep-2016\n",
-    "note":"Original plan (12MW): February 2017 - Expansion plan(0.9MW): Noveber 2017"
+    "invest":150,
+    "cod":"",
+    "note":""
     }
   },
   {
@@ -560,9 +560,9 @@
        "coordinates":  [ 36.291409,32.353329,0 ]
     },
     "properties": {
-    "name":"Mafraq 1 ",
+    "name":"Mafraq 1",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round2",
     "status":"operational",
     "dc":66.68,
@@ -571,7 +571,7 @@
     "location":"Mafraq Development Area",
     "owner":"Fotowatio Renewable Ventures (FRV)",
     "epc":"OHL",
-    "invest":"86",
+    "invest":86,
     "cod":"18-Nov",
     "note":""
     }
@@ -585,7 +585,7 @@
     "properties": {
     "name":"Mafraq 2",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round2",
     "status":"operational",
     "dc":60.9,
@@ -594,7 +594,7 @@
     "location":"Mafraq Development Area",
     "owner":"Empire Solar PSC\n(FRV  70% + Hareon Swiss Holding 30%)",
     "epc":"OHL",
-    "invest":"79",
+    "invest":79,
     "cod":"18-Nov",
     "note":""
     }
@@ -608,7 +608,7 @@
     "properties": {
     "name":"New Tafieleh Wind Farm (Approximate)",
     "province":"Tafileleh",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal",
     "status":"under-construction",
     "dc":100,
@@ -617,7 +617,7 @@
     "location":"Tafileh",
     "owner":"Mass Energy",
     "epc":"GE",
-    "invest":"201",
+    "invest":201,
     "cod":"2019",
     "note":""
     }
@@ -631,7 +631,7 @@
     "properties": {
     "name":"Oryx",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
@@ -640,7 +640,7 @@
     "location":"Maan Development Area (MDA)",
     "owner":"Scatec Solar\nQuest Energy Investment LLC",
     "epc":"Scatec Solar",
-    "invest":"19",
+    "invest":19,
     "cod":"16-Jun",
     "note":""
     }
@@ -654,7 +654,7 @@
     "properties": {
     "name":"Risheh PV",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal",
     "status":"operational",
     "dc":61.337,
@@ -663,7 +663,7 @@
     "location":"Risheh",
     "owner":"ACWA Power",
     "epc":"Sterling and Wilson",
-    "invest":"71",
+    "invest":71,
     "cod":"2019",
     "note":""
     }
@@ -677,7 +677,7 @@
     "properties": {
     "name":"Round 3 PV projects",
     "province":"unknown",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round3",
     "status":"tendering",
     "dc":null,
@@ -686,7 +686,7 @@
     "location":"",
     "owner":"",
     "epc":"",
-    "invest":"",
+    "invest":null,
     "cod":"N/A",
     "note":""
     }
@@ -700,7 +700,7 @@
     "properties": {
     "name":"Round 3 Wind Projects",
     "province":"unknown",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal-round3",
     "status":"tendering",
     "dc":50,
@@ -709,7 +709,7 @@
     "location":"",
     "owner":"",
     "epc":"",
-    "invest":"",
+    "invest":null,
     "cod":"N/A",
     "note":""
     }
@@ -721,18 +721,18 @@
        "coordinates":  [ 35.826924,30.144366,0 ]
     },
     "properties": {
-    "name":"Shams Ma'an",
+    "name":"Shams Maan",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":50,
     "price":10.5,
     "location":"Maan Development Area (MDA)",
-    "owner":"Shams Maan Power Generation PSC (Diamond Generating Europe Limited, Nebras Power Q.S.C, Kawar Group)",
+    "owner":"",
     "epc":"First Solar",
-    "invest":"117",
+    "invest":117,
     "cod":"16-Sep",
     "note":""
     }
@@ -746,7 +746,7 @@
     "properties": {
     "name":"Shamsuna",
     "province":"Aqaba",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
@@ -755,7 +755,7 @@
     "location":"Aqaba",
     "owner":"Shamsuna Power Company",
     "epc":"Enerray S.P.A.",
-    "invest":"18",
+    "invest":18,
     "cod":"16-Feb",
     "note":""
     }
@@ -769,16 +769,16 @@
     "properties": {
     "name":"Shobak Wind Farm",
     "province":"Maan",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal-round1",
     "status":"under-construction",
     "dc":45,
     "ac":45,
     "price":76,
-    "location":"Ma'an - Shobak",
-    "owner":"Alcazar Energy: 90%; - Hecate Energy LLC: 10%",
+    "location":"Maan - Shobak",
+    "owner":"Alcazar Energy: 90% - Hecate Energy LLC: 10%",
     "epc":"Vestas",
-    "invest":"100",
+    "invest":100,
     "cod":"2019",
     "note":""
     }
@@ -792,7 +792,7 @@
     "properties": {
     "name":"South Amman PV Plant - Kfw Grant",
     "province":"Amman",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"loan",
     "status":"under-construction",
     "dc":46.33,
@@ -801,7 +801,7 @@
     "location":"AlJeza - South Amman",
     "owner":"MEMR",
     "epc":"Belectric Gulf",
-    "invest":"51",
+    "invest":51,
     "cod":"2019",
     "note":""
     }
@@ -815,7 +815,7 @@
     "properties": {
     "name":"Sun-Edison",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":23.8,
@@ -823,8 +823,8 @@
     "price":12,
     "location":"Maan Development Area (MDA)",
     "owner":"Previous owner:  SunEdison \nnew owner: Alcazar",
-    "epc":"Sun EdisonITALIA Construction S.R.L.",
-    "invest":"40",
+    "epc":"Sun Edison ITALIA Construction S.R.L.",
+    "invest":40,
     "cod":"2016",
     "note":""
     }
@@ -838,7 +838,7 @@
     "properties": {
     "name":"Tafieleh Wind Farm",
     "province":"Tafileleh",
-    "type":"wind",
+    "tech":"wind",
     "project-type":"direct-proposal",
     "status":"operational",
     "dc":117,
@@ -847,7 +847,7 @@
     "location":"Tafileh",
     "owner":"JWPC",
     "epc":"Vestas",
-    "invest":"290",
+    "invest":290,
     "cod":"15-Sep",
     "note":""
     }
@@ -861,7 +861,7 @@
     "properties": {
     "name":"Zaatri Refugee Camp PV Plant - Kfw Frant",
     "province":"Mafraq",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"kfw-grant",
     "status":"operational",
     "dc":12.9,
@@ -870,8 +870,8 @@
     "location":"Zaatri Camp - Mafraq",
     "owner":"MEMR",
     "epc":"Belectric Gulf",
-    "invest":"17.4",
-    "cod":"Feb-2017\n",
+    "invest":17.4,
+    "cod":"",
     "note":""
     }
   },
@@ -884,16 +884,16 @@
     "properties": {
     "name":"Zahrat Alsalam",
     "province":"Maan",
-    "type":"pv",
+    "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
     "dc":null,
     "ac":10,
     "price":12,
     "location":"Maan Development Area (MDA)",
-    "owner":"Adenium Energy Capital, KEC and Etihad Bank ",
+    "owner":"",
     "epc":"Martifer Solar",
-    "invest":"18",
+    "invest":18,
     "cod":"16-Sep",
     "note":""
     }
