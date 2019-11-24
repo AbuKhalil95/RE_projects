@@ -381,7 +381,7 @@
     "tech":"pv",
     "project-type":"direct-proposal-round1",
     "status":"operational",
-    "dc":,
+    "dc":null,
     "ac":20,
     "price":12,
     "location":"Maan Development Area (MDA)",
