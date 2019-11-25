@@ -247,7 +247,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [31.60655, 35.5093]
     },
     "properties": {
     "project":" Third round wind project",
