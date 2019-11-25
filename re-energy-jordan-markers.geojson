@@ -848,7 +848,50 @@
     "owner":"JWPC",
     "epc":"Vestas",
     "invest":290,
-    "cod":"15-Sep",
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.185139,31.930389 ]
+    },
+    "properties": {
+    "project":"Al-Ghabawi Landfill biogas power plant",
+    "tech":"Bio-gas",
+    "project-type":"Loan",
+    "dc":"",
+    "ac":"5",
+    "price":null,
+    "location":"Amman - AlGhabawi",
+    "owner":"Greater Amman Municipilty in coordenation with MEMR",
+    "epc":"CNTY China\n\nChristopher D. Constantinidis S.A. � HELECTOR S.A\n\ni-frantzis associates Ltd",
+    "invest":"Cell 1&3: 30-10by GAM\nCell5: 3.25JD by ERBD & 45 GBP investment",
+    "status":"Operational",
+    "cod":"Jun-19",
+    "note":"Cell 1&3: 30-10by GAM\nCell5: 3.25JD by ERBD & 45 GBP investment"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":"Masdar PV project (Baynona)",
+    "tech":"PV",
+    "project-type":"Direct Proposal ",
+    "dc":"247.6",
+    "ac":"200",
+    "price":null,
+    "location":"Amman- East Amman",
+    "owner":"70% MASDAR \n30% Taaleri",
+    "epc":"",
+    "invest":"260",
+    "status":"Under Construction",
+    "cod":"TBD",
     "note":""
     }
   },
@@ -856,22 +899,505 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.324578,32.28165,0 ]
+       "coordinates":  [ 39.011111,32.572722 ]
     },
     "properties": {
-    "name":"Zaatri Refugee Camp PV Plant - Kfw Frant�",
-    "province":"Mafraq",
-    "tech":"pv",
-    "project-type":"kfw-grant",
-    "status":"operational",
-    "dc":12.9,
-    "ac":11.1,
+    "project":"Risheh PV",
+    "tech":"PV",
+    "project-type":"Direct Proposal ",
+    "dc":"61.3",
+    "ac":"50",
     "price":null,
-    "location":"Zaatri Camp - Mafraq",
+    "location":"Mafraq- Risheh",
+    "owner":"ACWA Power",
+    "epc":"Sterling and Wilson",
+    "invest":"71",
+    "status":"Operational",
+    "cod":"2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.189738,31.90752 ]
+    },
+    "properties": {
+    "project":"AES PV project",
+    "tech":"PV",
+    "project-type":"Direct Proposal ",
+    "dc":"50",
+    "ac":"40",
+    "price":null,
+    "location":"East Amman\\Manakher",
+    "owner":"AES 60%\nMitsui 40%",
+    "epc":"Warda Sella",
+    "invest":"50",
+    "status":"Operational",
+    "cod":"Sep-19",
+    "note":"contact Khalid othman - AES 064293200"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.812887,30.593952 ]
+    },
+    "properties": {
+    "project":"Philadelphia Husaineyyah PV",
+    "tech":"PV",
+    "project-type":"Direct Proposal ",
+    "dc":"68",
+    "ac":"50",
+    "price":null,
+    "location":"Maan- Alhusaineyyah",
+    "owner":"70% AMEA Power\n30% Philadelphia\nSolar",
+    "epc":"Philadelphia\nSolar",
+    "invest":"",
+    "status":"Under Development",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.69194,32.18134 ]
+    },
+    "properties": {
+    "project":"Al Badiya Philadelphia",
+    "tech":"PV",
+    "project-type":"Direct Proposal ",
+    "dc":"",
+    "ac":"20",
+    "price":null,
+    "location":"Mafraq",
+    "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
+    "epc":"Philadelphia\nSolar",
+    "invest":"42",
+    "status":"Operational",
+    "cod":"October 2015 \n",
+    "note":"Phase I : 10 MW 22/10/2015 \nPhase II: 10MW + 12.6MWh storage  18/2/2019"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.818911,30.154358 ]
+    },
+    "properties": {
+    "project":"Falcon Ma�an Solar Power  \n??? ????",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"23",
+    "ac":"20",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Catalyst Private Equity (Falcon)",
+    "epc":"Enerray S.P.A.",
+    "invest":"32",
+    "status":"Operational",
+    "cod":"Jun-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.818917,30.154361 ]
+    },
+    "properties": {
+    "project":"Alcazar",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"23.8",
+    "ac":"20",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":" \n Alcazar",
+    "epc":"Sun Edison�ITALIA Construction S.R.L.",
+    "invest":"40",
+    "status":"Operational",
+    "cod":"Jun-16",
+    "note":"Previous owner:  SunEdison"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.027333,29.39425 ]
+    },
+    "properties": {
+    "project":"Shamsuna",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"10",
+    "ac":"10",
+    "price":12,
+    "location":"Aqaba",
+    "owner":"Shamsuna Power Company",
+    "epc":"Enerray S.P.A.",
+    "invest":"18",
+    "status":"Operational",
+    "cod":"Feb-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.612036,30.215529 ]
+    },
+    "properties": {
+    "project":"Oryx",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an",
+    "owner":"Scatec Solar\nQuest Energy Investment LLC",
+    "epc":"Scatec Solar",
+    "invest":"19",
+    "status":"Operational",
+    "cod":"Jun-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.81626,30.140683 ]
+    },
+    "properties": {
+    "project":"Green Land Alternative Energy Project",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Scatec Solar ASA \nGreen Land Alternative Energy  ",
+    "epc":"Scatec Solar",
+    "invest":"19",
+    "status":"Operational",
+    "cod":"Jun-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.812955,30.142318 ]
+    },
+    "properties": {
+    "project":"Arabia one",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"�11.52",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"\nArabia Trading & Consulting Co 30%\nHanhwa E&C 30%\nEnnera (CAF) 40%",
+    "epc":"",
+    "invest":"17.5",
+    "status":"Operational",
+    "cod":"Aug-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.817095,30.147428 ]
+    },
+    "properties": {
+    "project":"European Jordanian Renewable Energy Project",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"",
+    "ac":"20",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"EJRE Projects ",
+    "epc":"Scatec Solar",
+    "invest":"33",
+    "status":"Operational",
+    "cod":"Aug-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.097472,32.440556 ]
+    },
+    "properties": {
+    "project":"Jordan Solar One",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"24",
+    "ac":"20",
+    "price":12,
+    "location":" Mafraq - Hosha",
+    "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
+    "epc":"Martifer Solar",
+    "invest":"52",
+    "status":"Operational",
+    "cod":"Sep-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.810318,30.15323 ]
+    },
+    "properties": {
+    "project":"Alzanbaq",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"11",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Clean Energy Concepts- Adenium Energy Capital- KEC and Etihad Bank",
+    "epc":"Martifer Solar",
+    "invest":"16.5",
+    "status":"Operational",
+    "cod":"Sep-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.81014,30.148435 ]
+    },
+    "properties": {
+    "project":"Zahrat Alsalam",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"11",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
+    "epc":"Martifer Solar",
+    "invest":"18",
+    "status":"Operational",
+    "cod":"Sep-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.809153,30.144123 ]
+    },
+    "properties": {
+    "project":"Alward Aljoury",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"11",
+    "ac":"10",
+    "price":12,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
+    "epc":"Martifer Solar",
+    "invest":"18",
+    "status":"Operational",
+    "cod":"Sep-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.826417,30.142583 ]
+    },
+    "properties": {
+    "project":"Shams Maan",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"",
+    "ac":"50",
+    "price":10.5,
+    "location":"Ma�an- Ma�an Development Area (MDA)",
+    "owner":"Shams Ma�an Power Generation PSC (Diamond Generating Europe Limited- Nebras Power Q.S.C- Kawar Group)",
+    "epc":"First Solar",
+    "invest":"117",
+    "status":"Operational",
+    "cod":"Sep-16",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.292036,32.353436 ]
+    },
+    "properties": {
+    "project":"Mafraq 1 ",
+    "tech":"PV",
+    "project-type":"Direct proposals Round 2",
+    "dc":"65.5",
+    "ac":"50",
+    "price":4.8949,
+    "location":"Mafraq- King Hussein Bin Talal Development Area",
+    "owner":"Fotowatio Renewable Ventures (FRV)",
+    "epc":"OHL",
+    "invest":"86",
+    "status":"Operational",
+    "cod":"Nov-18",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.252889,32.378972 ]
+    },
+    "properties": {
+    "project":"Mafraq 2",
+    "tech":"PV",
+    "project-type":"Direct proposals Round 2",
+    "dc":"65",
+    "ac":"50",
+    "price":5.43,
+    "location":"Mafraq- King Hussein Bin Talal Development Area",
+    "owner":"Empire Solar PSC\n(FRV  70% + Hareon Swiss Holding 30%)",
+    "epc":"OHL",
+    "invest":"79",
+    "status":"Operational",
+    "cod":"Nov-18",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.291983,32.362835 ]
+    },
+    "properties": {
+    "project":"ACWA PV Project",
+    "tech":"PV",
+    "project-type":"Direct proposals Round 2",
+    "dc":"61.3",
+    "ac":"50",
+    "price":4.34491,
+    "location":"Mafraq- King Hussein Bin Talal Development Area",
+    "owner":"ACWA Power",
+    "epc":" ET Solutions",
+    "invest":"80",
+    "status":"Operational",
+    "cod":"Januray 2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.025472,32.092833 ]
+    },
+    "properties": {
+    "project":"Al Safawi Arabia Two Solar PV Plant",
+    "tech":"PV",
+    "project-type":"Direct proposals Round 2",
+    "dc":"66.7",
+    "ac":"51",
+    "price":4.59784,
+    "location":"Mafraq- Alsafawi",
+    "owner":" Green Energy PSC (FRV 70% + ATC30%)",
+    "epc":"TSK",
+    "invest":"80",
+    "status":"Operational",
+    "cod":"Mar-19",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":"Round 3 PV Projects",
+    "tech":"PV",
+    "project-type":"Direct Proposals Round 3",
+    "dc":"",
+    "ac":"150",
+    "price":null,
+    "location":"",
+    "owner":"",
+    "epc":"",
+    "invest":"",
+    "status":"Tendering",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6002,31.91254 ]
+    },
+    "properties": {
+    "project":" Expansion of Azraq PV plant project ",
+    "tech":"PV",
+    "project-type":"European Grant",
+    "dc":"5.74",
+    "ac":"5",
+    "price":null,
+    "location":"Alzarqa- Azraq",
+    "owner":"MEMR",
+    "epc":"?????? ???? ?????? ?????? ??????? ???????? ????? ???? ???????? ?????????",
+    "invest":"5.8",
+    "status":"Tender is awarded to the EPC ",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.91263889,36.60013889 ]
+    },
+    "properties": {
+    "project":"South Amman PV  Plant - Kfw Grant",
+    "tech":"PV",
+    "project-type":"Grant",
+    "dc":"46.33",
+    "ac":"40",
+    "price":null,
+    "location":"Amman- Aljiza",
     "owner":"MEMR",
     "epc":"Belectric Gulf",
-    "invest":17.4,
-    "cod":"",
+    "invest":"51",
+    "status":"Under Construction",
+    "cod":"TBD",
     "note":""
     }
   },
@@ -879,22 +1405,439 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.810344,30.148441,0 ]
+       "coordinates":  [ 35.360944,29.736861 ]
     },
     "properties": {
-    "name":"Zahrat Alsalam",
-    "province":"Maan",
-    "tech":"pv",
-    "project-type":"direct-proposal-round1",
-    "status":"operational",
-    "dc":null,
-    "ac":10,
-    "price":12,
-    "location":"Maan Development Area (MDA)",
+    "project":"Al-Qwerah PV Plant - Gulf Grant",
+    "tech":"PV",
+    "project-type":"Grant",
+    "dc":"103",
+    "ac":"89",
+    "price":null,
+    "location":" Aqaba- AlQwerah",
+    "owner":"MEMR",
+    "epc":"TSK + Enviromena",
+    "invest":"150",
+    "status":"Operational",
+    "cod":"Jul-18",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.324278,32.282083 ]
+    },
+    "properties": {
+    "project":"Zaatri Refugee Camp PV Plant - Kfw Frant",
+    "tech":"PV",
+    "project-type":"Kfw Grant",
+    "dc":"12.9",
+    "ac":"11.1",
+    "price":null,
+    "location":"Mafraq- Zaatri Camp",
+    "owner":"MEMR",
+    "epc":"Belectric Gulf",
+    "invest":"17.4",
+    "status":"Operational",
+    "cod":"February 2017\n",
+    "note":"Original plan (12MW): February 2017\nExpansion plan(0.9MW): Noveber 2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6002,31.91254 ]
+    },
+    "properties": {
+    "project":"Azraq camp  Solar PV  Power Plant ",
+    "tech":"PV",
+    "project-type":"Spanish Grant",
+    "dc":"2.17",
+    "ac":"2",
+    "price":null,
+    "location":"Alzarqa- Azraq",
+    "owner":"MEMR",
+    "epc":"ATERSA",
+    "invest":"5",
+    "status":"Operational",
+    "cod":"Apr-15",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7677,31.87321 ]
+    },
+    "properties": {
+    "project":"Azraq  Solar PV  Power Plant ",
+    "tech":"PV",
+    "project-type":"Spanish Grant",
+    "dc":"3",
+    "ac":"2.5",
+    "price":null,
+    "location":"Alzarqa- Azraq",
+    "owner":"MEMR",
+    "epc":"Ennera",
+    "invest":"6.95",
+    "status":"Operational",
+    "cod":"Apr-15",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7677,31.87321 ]
+    },
+    "properties": {
+    "project":"Expansion of Azraq PV plant project ",
+    "tech":"PV",
+    "project-type":"Spanish Grant ",
+    "dc":"TBD",
+    "ac":"TBD",
+    "price":null,
+    "location":"Alzarqa- Azraq",
+    "owner":"MEMR",
+    "epc":"Bids Subission",
+    "invest":"1.15",
+    "status":"Tendering",
+    "cod":"Sep-18",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.69194,32.18134 ]
+    },
+    "properties": {
+    "project":"Al Badiya Philadelphia",
+    "tech":"Storage",
+    "project-type":"Direct Proposal ",
+    "dc":"",
+    "ac":"12.6 MWh",
+    "price":null,
+    "location":"Mafraq",
+    "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
+    "epc":"Philadelphia\nSolar",
+    "invest":"",
+    "status":"Operational",
+    "cod":"18/2/2019",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.865484,32.534474 ]
+    },
+    "properties": {
+    "project":"�Energy Storage",
+    "tech":"Storage",
+    "project-type":"Direct Proposal ",
+    "dc":"",
+    "ac":"30MW for 2 hours",
+    "price":null,
+    "location":"Irbid- Irbid substation",
     "owner":"",
-    "epc":"Martifer Solar",
-    "invest":18,
-    "cod":"16-Sep",
+    "epc":"",
+    "invest":"",
+    "status":"Under Development",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":"Jordan wind farm",
+    "tech":"Wind",
+    "project-type":"Direct Proposal ",
+    "dc":"117",
+    "ac":"117",
+    "price":null,
+    "location":"Tafileh",
+    "owner":"JWPC",
+    "epc":"Vestas",
+    "invest":"290",
+    "status":"Operational",
+    "cod":"Sep-15",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.438389,30.132139 ]
+    },
+    "properties": {
+    "project":"Alrajif wind farm",
+    "tech":"Wind",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"86",
+    "ac":"86",
+    "price":null,
+    "location":"Maan- Al Rajif",
+    "owner":"Alcazar - Green Watt",
+    "epc":"Gamesa�",
+    "invest":"183",
+    "status":"Operational",
+    "cod":"Oct-18",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.63054,30.56104 ]
+    },
+    "properties": {
+    "project":"Fujeij wind power plant",
+    "tech":"Wind",
+    "project-type":"Direct Proposal ",
+    "dc":"89.1",
+    "ac":"89.1",
+    "price":null,
+    "location":"Maan- Fujeij",
+    "owner":"KEPCO",
+    "epc":"Vestas",
+    "invest":"182",
+    "status":"Operational",
+    "cod":"Oct-19",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":" MASS wind farm",
+    "tech":"Wind",
+    "project-type":"Direct proposal",
+    "dc":"100",
+    "ac":"100",
+    "price":null,
+    "location":"Tafileh",
+    "owner":"Mass Energy",
+    "epc":"GE",
+    "invest":"201",
+    "status":"Under Construction",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.62661,30.50423 ]
+    },
+    "properties": {
+    "project":"Shobak Wind Farm",
+    "tech":"Wind",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"45",
+    "ac":"45",
+    "price":null,
+    "location":"Maan - Shobak",
+    "owner":"Alcazar Energy: 90%; - Hecate Energy LLC: 10%",
+    "epc":"Vestas",
+    "invest":"100",
+    "status":"Under Construction",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":"Abour wind farm",
+    "tech":"Wind",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"50",
+    "ac":"50",
+    "price":null,
+    "location":"Tafileh",
+    "owner":"Abour Energy Company PSC",
+    "epc":"",
+    "invest":"113",
+    "status":"Under Development",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.648444,30.752806 ]
+    },
+    "properties": {
+    "project":"Daihan wind farm",
+    "tech":"Wind",
+    "project-type":"Direct Proposals Round 1",
+    "dc":"51.75",
+    "ac":"51.75",
+    "price":null,
+    "location":"Tafileh",
+    "owner":"Daehan Wind Power Company (KOSPO + Daelim Energy)",
+    "epc":"Vestas",
+    "invest":"102",
+    "status":"Under Construction",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "project":" Third round wind project",
+    "tech":"Wind",
+    "project-type":"Direct Proposals Round 3",
+    "dc":"50",
+    "ac":"50",
+    "price":null,
+    "location":"",
+    "owner":"",
+    "epc":"",
+    "invest":"",
+    "status":"Tendering",
+    "cod":"TBD",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.699306,30.263306 ]
+    },
+    "properties": {
+    "project":" Maan wind project",
+    "tech":"Wind",
+    "project-type":"Grant (Kuwait Fund For Arab Economic Development)",
+    "dc":"80",
+    "ac":"80",
+    "price":null,
+    "location":"Maan",
+    "owner":"MEMR",
+    "epc":"Elecnor",
+    "invest":"150",
+    "status":"Operational",
+    "cod":" September 2016\n",
+    "note":"Phase 1  (66MW) : September 2016\nPhase 2  (14MW): August 2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.821306,32.432417 ]
+    },
+    "properties": {
+    "project":"Ibrahimeyya",
+    "tech":"Wind",
+    "project-type":"",
+    "dc":"0.32",
+    "ac":"0.32",
+    "price":null,
+    "location":"Irbid- Ibrahimeyya",
+    "owner":"CEGCO",
+    "epc":"",
+    "invest":"",
+    "status":"Operational",
+    "cod":"1988",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.800722,32.191583 ]
+    },
+    "properties": {
+    "project":"King Talal Dam",
+    "tech":"Hydro",
+    "project-type":"",
+    "dc":"",
+    "ac":"12",
+    "price":null,
+    "location":"Jerash",
+    "owner":"Jordan Valley Authority",
+    "epc":"",
+    "invest":"",
+    "status":"Operational",
+    "cod":"2015",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1292999999,32.0019106 ]
+    },
+    "properties": {
+    "project":"Jordan Biogas Company",
+    "tech":"Bio-gas",
+    "project-type":"",
+    "dc":"",
+    "ac":"3.5",
+    "price":null,
+    "location":"Ruseifa- Abu siah Village",
+    "owner":"50% Greater Amman Municipality\n50% CEGCO",
+    "epc":"",
+    "invest":"",
+    "status":"Operational",
+    "cod":"2003",
+    "note":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.705288,32.573925 ]
+    },
+    "properties": {
+    "project":"Hofa",
+    "tech":"Wind",
+    "project-type":"",
+    "dc":"1.125",
+    "ac":"1.125",
+    "price":null,
+    "location":"Irbid- Hofa",
+    "owner":"CEGCO",
+    "epc":"",
+    "invest":"",
+    "status":"Operational",
+    "cod":"",
     "note":""
     }
   }
