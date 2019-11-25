@@ -17,7 +17,7 @@
     "location":"Amman - AlGhabawi",
     "owner":"Greater Amman Municipilty in coordenation with MEMR",
     "epc":"CNTY China\n\nChristopher D. Constantinidis S.A. � HELECTOR S.A\n\ni-frantzis associates Ltd",
-    "incest":"Cell 1&3: 30-10by GAM\nCell5: 3.25JD by ERBD & 45 GBP investment",
+    "invest":"Cell 1&3: 30-10by GAM\nCell5: 3.25JD by ERBD & 45 GBP investment",
     "status":"Operational",
     "cod":"19-Jun",
     "note":"Cell 1&3: 30-10by GAM\nCell5: 3.25JD by ERBD & 45 GBP investment"
@@ -39,7 +39,7 @@
     "location":"Amman- East Amman",
     "owner":"70% MASDAR \n30% Taaleri",
     "epc":"",
-    "incest":"260",
+    "invest":"260",
     "status":"Under Construction",
     "cod":"TBD",
     "note":""
@@ -61,7 +61,7 @@
     "location":"Mafraq- Risheh",
     "owner":"ACWA Power",
     "epc":"Sterling and Wilson",
-    "incest":"71",
+    "invest":"71",
     "status":"Operational",
     "cod":"2019",
     "note":""
@@ -83,7 +83,7 @@
     "location":"East Amman\\Manakher",
     "owner":"AES 60%\nMitsui 40%",
     "epc":"Warda Sella",
-    "incest":"50",
+    "invest":"50",
     "status":"Operational",
     "cod":"19-Sep",
     "note":"contact Khalid othman - AES 064293200"
@@ -105,7 +105,7 @@
     "location":"Maan- Alhusaineyyah",
     "owner":"70% AMEA Power\n30% Philadelphia\nSolar",
     "epc":"Philadelphia\nSolar",
-    "incest":"",
+    "invest":"",
     "status":"Under Development",
     "cod":"TBD",
     "note":""
@@ -127,7 +127,7 @@
     "location":"Mafraq",
     "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
     "epc":"Philadelphia\nSolar",
-    "incest":"42",
+    "invest":"42",
     "status":"Operational",
     "cod":"October 2015 \n",
     "note":"Phase I : 10 MW 22/10/2015 \nPhase II: 10MW + 12.6MWh storage  18/2/2019"
@@ -149,7 +149,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Catalyst Private Equity (Falcon)",
     "epc":"Enerray S.P.A.",
-    "incest":"32",
+    "invest":"32",
     "status":"Operational",
     "cod":"16-Jun",
     "note":""
@@ -171,7 +171,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":" \n Alcazar",
     "epc":"Sun Edison�ITALIA Construction S.R.L.",
-    "incest":"40",
+    "invest":"40",
     "status":"Operational",
     "cod":"16-Jun",
     "note":"Previous owner:  SunEdison"
@@ -193,7 +193,7 @@
     "location":"Aqaba",
     "owner":"Shamsuna Power Company",
     "epc":"Enerray S.P.A.",
-    "incest":"18",
+    "invest":"18",
     "status":"Operational",
     "cod":"16-Feb",
     "note":""
@@ -215,7 +215,7 @@
     "location":"Maan",
     "owner":"Scatec Solar\nQuest Energy Investment LLC",
     "epc":"Scatec Solar",
-    "incest":"19",
+    "invest":"19",
     "status":"Operational",
     "cod":"16-Jun",
     "note":""
@@ -237,7 +237,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Scatec Solar ASA \nGreen Land Alternative Energy  ",
     "epc":"Scatec Solar",
-    "incest":"19",
+    "invest":"19",
     "status":"Operational",
     "cod":"16-Jun",
     "note":""
@@ -259,7 +259,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"\nArabia Trading & Consulting Co 30%\nHanhwa E&C 30%\nEnnera (CAF) 40%",
     "epc":"",
-    "incest":"17.5",
+    "invest":"17.5",
     "status":"Operational",
     "cod":"16-Aug",
     "note":""
@@ -281,7 +281,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"EJRE Projects ",
     "epc":"Scatec Solar",
-    "incest":"33",
+    "invest":"33",
     "status":"Operational",
     "cod":"16-Aug",
     "note":""
@@ -303,7 +303,7 @@
     "location":" Mafraq - Hosha",
     "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
     "epc":"Martifer Solar",
-    "incest":"52",
+    "invest":"52",
     "status":"Operational",
     "cod":"16-Sep",
     "note":""
@@ -325,7 +325,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Clean Energy Concepts- Adenium Energy Capital- KEC and Etihad Bank",
     "epc":"Martifer Solar",
-    "incest":"16.5",
+    "invest":"16.5",
     "status":"Operational",
     "cod":"16-Sep",
     "note":""
@@ -347,7 +347,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
     "epc":"Martifer Solar",
-    "incest":"18",
+    "invest":"18",
     "status":"Operational",
     "cod":"16-Sep",
     "note":""
@@ -369,7 +369,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Adenium Energy Capital- KEC and Etihad Bank ",
     "epc":"Martifer Solar",
-    "incest":"18",
+    "invest":"18",
     "status":"Operational",
     "cod":"16-Sep",
     "note":""
@@ -391,7 +391,7 @@
     "location":"Maan- Maan Development Area (MDA)",
     "owner":"Shams Maan Power Generation PSC (Diamond Generating Europe Limited- Nebras Power Q.S.C- Kawar Group)",
     "epc":"First Solar",
-    "incest":"117",
+    "invest":"117",
     "status":"Operational",
     "cod":"16-Sep",
     "note":""
@@ -413,7 +413,7 @@
     "location":"Mafraq- King Hussein Bin Talal Development Area",
     "owner":"Fotowatio Renewable Ventures (FRV)",
     "epc":"OHL",
-    "incest":"86",
+    "invest":"86",
     "status":"Operational",
     "cod":"18-Nov",
     "note":""
@@ -435,7 +435,7 @@
     "location":"Mafraq- King Hussein Bin Talal Development Area",
     "owner":"Empire Solar PSC\n(FRV  70% + Hareon Swiss Holding 30%)",
     "epc":"OHL",
-    "incest":"79",
+    "invest":"79",
     "status":"Operational",
     "cod":"18-Nov",
     "note":""
@@ -457,7 +457,7 @@
     "location":"Mafraq- King Hussein Bin Talal Development Area",
     "owner":"ACWA Power",
     "epc":" ET Solutions",
-    "incest":"80",
+    "invest":"80",
     "status":"Operational",
     "cod":"Januray 2019",
     "note":""
@@ -479,7 +479,7 @@
     "location":"Mafraq- Alsafawi",
     "owner":" Green Energy PSC (FRV 70% + ATC30%)",
     "epc":"TSK",
-    "incest":"80",
+    "invest":"80",
     "status":"Operational",
     "cod":"19-Mar",
     "note":""
@@ -501,7 +501,7 @@
     "location":"",
     "owner":"",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Tendering",
     "cod":"TBD",
     "note":""
@@ -523,7 +523,7 @@
     "location":"Alzarqa- Azraq",
     "owner":"MEMR",
     "epc":"?????? ???? ?????? ?????? ??????? ???????? ????? ???? ???????? ?????????",
-    "incest":"5.8",
+    "invest":"5.8",
     "status":"Tender is awarded to the EPC ",
     "cod":"TBD",
     "note":""
@@ -545,7 +545,7 @@
     "location":"Amman- Aljiza",
     "owner":"MEMR",
     "epc":"Belectric Gulf",
-    "incest":"51",
+    "invest":"51",
     "status":"Under Construction",
     "cod":"TBD",
     "note":""
@@ -567,7 +567,7 @@
     "location":" Aqaba- AlQwerah",
     "owner":"MEMR",
     "epc":"TSK + Enviromena",
-    "incest":"150",
+    "invest":"150",
     "status":"Operational",
     "cod":"18-Jul",
     "note":""
@@ -589,7 +589,7 @@
     "location":"Mafraq- Zaatri Camp",
     "owner":"MEMR",
     "epc":"Belectric Gulf",
-    "incest":"17.4",
+    "invest":"17.4",
     "status":"Operational",
     "cod":"February 2017\n",
     "note":"Original plan (12MW): February 2017\nExpansion plan(0.9MW): Noveber 2017"
@@ -611,7 +611,7 @@
     "location":"Alzarqa- Azraq",
     "owner":"MEMR",
     "epc":"ATERSA",
-    "incest":"5",
+    "invest":"5",
     "status":"Operational",
     "cod":"15-Apr",
     "note":""
@@ -633,7 +633,7 @@
     "location":"Alzarqa- Azraq",
     "owner":"MEMR",
     "epc":"Ennera",
-    "incest":"6.95",
+    "invest":"6.95",
     "status":"Operational",
     "cod":"15-Apr",
     "note":""
@@ -655,7 +655,7 @@
     "location":"Alzarqa- Azraq",
     "owner":"MEMR",
     "epc":"Bids Subission",
-    "incest":"1.15",
+    "invest":"1.15",
     "status":"Tendering",
     "cod":"18-Sep",
     "note":""
@@ -677,7 +677,7 @@
     "location":"Mafraq",
     "owner":"Al Badiya Power Generation (Philadelphia\nSolar)",
     "epc":"Philadelphia\nSolar",
-    "incest":"",
+    "invest":"",
     "status":"Operational",
     "cod":"18/2/2019",
     "note":""
@@ -699,7 +699,7 @@
     "location":"Irbid- Irbid substation",
     "owner":"",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Under Development",
     "cod":"TBD",
     "note":""
@@ -721,7 +721,7 @@
     "location":"Tafileh",
     "owner":"JWPC",
     "epc":"Vestas",
-    "incest":"290",
+    "invest":"290",
     "status":"Operational",
     "cod":"15-Sep",
     "note":""
@@ -743,7 +743,7 @@
     "location":"Maan- Al Rajif",
     "owner":"Alcazar - Green Watt",
     "epc":"Gamesa�",
-    "incest":"183",
+    "invest":"183",
     "status":"Operational",
     "cod":"18-Oct",
     "note":""
@@ -765,7 +765,7 @@
     "location":"Maan- Fujeij",
     "owner":"KEPCO",
     "epc":"Vestas",
-    "incest":"182",
+    "invest":"182",
     "status":"Operational",
     "cod":"19-Oct",
     "note":""
@@ -787,7 +787,7 @@
     "location":"Tafileh",
     "owner":"Mass Energy",
     "epc":"GE",
-    "incest":"201",
+    "invest":"201",
     "status":"Under Construction",
     "cod":"TBD",
     "note":""
@@ -809,7 +809,7 @@
     "location":"Maan - Shobak",
     "owner":"Alcazar Energy: 90%; - Hecate Energy LLC: 10%",
     "epc":"Vestas",
-    "incest":"100",
+    "invest":"100",
     "status":"Under Construction",
     "cod":"TBD",
     "note":""
@@ -831,7 +831,7 @@
     "location":"Tafileh",
     "owner":"Abour Energy Company PSC",
     "epc":"",
-    "incest":"113",
+    "invest":"113",
     "status":"Under Development",
     "cod":"TBD",
     "note":""
@@ -853,7 +853,7 @@
     "location":"Tafileh",
     "owner":"Daehan Wind Power Company (KOSPO + Daelim Energy)",
     "epc":"Vestas",
-    "incest":"102",
+    "invest":"102",
     "status":"Under Construction",
     "cod":"TBD",
     "note":""
@@ -875,7 +875,7 @@
     "location":"",
     "owner":"",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Tendering",
     "cod":"TBD",
     "note":""
@@ -897,7 +897,7 @@
     "location":"Maan",
     "owner":"MEMR",
     "epc":"Elecnor",
-    "incest":"150",
+    "invest":"150",
     "status":"Operational",
     "cod":" September 2016\n",
     "note":"Phase 1  (66MW) : September 2016\nPhase 2  (14MW): August 2017"
@@ -919,7 +919,7 @@
     "location":"Irbid- Ibrahimeyya",
     "owner":"CEGCO",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Operational",
     "cod":"1988",
     "note":""
@@ -941,7 +941,7 @@
     "location":"Jerash",
     "owner":"Jordan Valley Authority",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Operational",
     "cod":"2015",
     "note":""
@@ -963,7 +963,7 @@
     "location":"Ruseifa- Abu siah Village",
     "owner":"50% Greater Amman Municipality\n50% CEGCO",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Operational",
     "cod":"2003",
     "note":""
@@ -985,7 +985,7 @@
     "location":"Irbid- Hofa",
     "owner":"CEGCO",
     "epc":"",
-    "incest":"",
+    "invest":"",
     "status":"Operational",
     "cod":"",
     "note":""
