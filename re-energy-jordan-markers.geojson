@@ -877,7 +877,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [35.5093,31.60655]
     },
     "properties": {
     "project":"Masdar PV project (Baynona)",
@@ -1467,7 +1467,7 @@
     "note":""
     }
   },
-  {
+    {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -1559,7 +1559,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [35.692667,30.699667]
     },
     "properties": {
     "project":"Jordan wind farm",
@@ -1625,7 +1625,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [35.78908,30.73952]
     },
     "properties": {
     "project":" MASS wind farm",
@@ -1669,7 +1669,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [35.5093,31.60655]
     },
     "properties": {
     "project":"Abour wind farm",
@@ -1713,7 +1713,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [35.5093,31.60655]
     },
     "properties": {
     "project":" Third round wind project",
