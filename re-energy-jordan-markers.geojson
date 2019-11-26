@@ -33,7 +33,7 @@
     "properties": {
     "project":"Masdar PV project (Baynona)",
     "tech":"pv",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"247.6",
     "ac":"200",
     "storage":"",
@@ -56,7 +56,7 @@
     "properties": {
     "project":"Risheh PV",
     "tech":"pv",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"61.3",
     "ac":"50",
     "storage":"",
@@ -79,7 +79,7 @@
     "properties": {
     "project":"AES PV project",
     "tech":"pv",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"50.0",
     "ac":"40",
     "storage":"",
@@ -102,7 +102,7 @@
     "properties": {
     "project":"Philadelphia Husaineyyah PV",
     "tech":"pv",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"68.0",
     "ac":"50",
     "storage":"",
@@ -125,7 +125,7 @@
     "properties": {
     "project":"Al Badiya Philadelphia",
     "tech":"pv",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"",
     "ac":"20",
     "storage":"",
@@ -700,7 +700,7 @@
     "properties": {
     "project":"Al Badiya Philadelphia",
     "tech":"storage",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"",
     "ac":"",
     "storage":"12.6 MWh",
@@ -723,7 +723,7 @@
     "properties": {
     "project":"�Energy Storage",
     "tech":"storage",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"",
     "ac":"",
     "storage":"60MWh",
@@ -746,7 +746,7 @@
     "properties": {
     "project":"Jordan wind farm",
     "tech":"wind",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"117.0",
     "ac":"117",
     "storage":"",
@@ -792,7 +792,7 @@
     "properties": {
     "project":"Fujeij wind power plant",
     "tech":"wind",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"89.1",
     "ac":"89.1",
     "storage":"",
@@ -815,7 +815,7 @@
     "properties": {
     "project":" MASS wind farm",
     "tech":"wind",
-    "project-type":"direct-proposal ",
+    "project-type":"direct-proposal",
     "dc":"100.0",
     "ac":"100",
     "storage":"",
