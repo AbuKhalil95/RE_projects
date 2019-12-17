@@ -419,8 +419,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Ajlun"
+        "company": "ideco",
+        "prov": "ajlun"
       }
     },
     {
@@ -2029,8 +2029,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Amman"
+        "company": "nepco",
+        "prov": "amman"
       }
     },
     {
@@ -6459,8 +6459,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Aqaba"
+        "company": "edco",
+        "prov": "aqaba"
       }
     },
     {
@@ -7117,8 +7117,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Balqa"
+        "company": "nepco",
+        "prov": "balqa"
       }
     },
     {
@@ -8091,8 +8091,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Irbid"
+        "company": "ideco",
+        "prov": "irbid"
       }
     },
     {
@@ -8617,8 +8617,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Jarash"
+        "company": "ideco",
+        "prov": "jarash"
       }
     },
     {
@@ -9655,8 +9655,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Karak"
+        "company": "edco",
+        "prov": "karak"
       }
     },
     {
@@ -11201,8 +11201,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Ma`an"
+        "company": "edco",
+        "prov": "maan"
       }
     },
     {
@@ -11879,8 +11879,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Madaba"
+        "company": "nepco",
+        "prov": "madaba"
       }
     },
     {
@@ -13405,8 +13405,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Mafraq"
+        "company": "ideco",
+        "prov": "mafraq"
       }
     },
     {
@@ -14287,8 +14287,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Tafilah"
+        "company": "edco",
+        "prov": "tafileh"
       }
     },
     {
@@ -15969,8 +15969,8 @@
         ]
       },
       "properties": {
-        "NAME_0": "Jordan",
-        "NAME_1": "Zarqa"
+        "company": "nepco",
+        "prov": "zarqa"
       }
     }
   ]
