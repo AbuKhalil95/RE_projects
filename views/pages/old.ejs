@@ -1,0 +1,112 @@
+<!--The div element for the map wraps everything in a nice box-->
+<section id="content-wrapper">
+  <h1 class="page-title">Jordan Renewable Energy Projects Map</h1>
+  <!-- clear fix to manage margins and empty area -->
+  <div id="block-system-main" class="clearfix">
+    <!-- Start of filter box to add filtering elements -->
+    <div class="view-filters">
+      <div class="views-exposed-form">
+        <div class="views-exposed-widgets clearfix">
+          <div class="views-exposed-widget">
+            <label>Technology</label>
+            <div class="views-widget">
+                <select id="filterType" onchange="filterMarkers();">
+                  <option value="">-  Any  -</option>
+                  <option value="pv">PV</option>
+                  <option value="wind">Wind</option>
+                  <option value="biogas">Waste to Energy</option>
+                  <option value="hydro">Hydro</option>
+                  <option value="storage">Energy Storage</option>                                
+                </select>
+            </div>
+          </div>
+          <div class="views-exposed-widget">
+            <label>Project Type</label>
+            <div class="views-widget">
+                <select id="filterLoan" onchange="filterMarkers();">
+                  <option value="">-  Any  -</option>
+                  <option value="loan-grant">Loan/Grant</option>
+                  <option value="direct-proposal">Direct Proposals</option>
+                  <option value="direct-proposals-round-1">Direct Proposals Round 1</option>
+                  <option value="direct-proposals-round-2">Direct Proposals Round 2</option>
+                  <option value="direct-proposals-round-3">Direct Proposals Round 3</option>
+                </select>
+            </div>
+          </div>
+          <div class="views-exposed-widget">
+            <label>Status</label>
+            <div class="views-widget">
+                <select id="filterStatus" onchange="filterMarkers();">
+                  <option value="">-  Any  -</option>
+                  <option value="operational">Operational</option>
+                  <option value="under-construction">Under Construction</option>
+                  <option value="under-development">Under Development</option>
+                </select>
+            </div>
+          </div>
+          <div class="views-exposed-widget">
+            <label>Capacity</label>
+            <div class="views-widget">
+                <select id="filterSize" onchange="filterMarkers();">
+                  <option value="">-  Any  -</option>
+                  <!-- <option value="1">Under 4 KW</option> -->
+                  <!-- <option value="2">5-30 KW</option> -->
+                  <!-- <option value="3">31-100 KW</option> -->
+                  <option value="4">101-500 KW</option>
+                  <option value="5">501-1000 KW</option>
+                  <option value="6">1-5 MW</option>
+                  <option value="7">5-20 MW</option>
+                  <option value="8">Above 20 MW</option>
+              </select>
+            </div>
+          </div>
+          <div class="views-exposed-widget">
+              <button onclick="reset()" class="form-submit">Reset</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start of main content that hosts map, sidebar and disclaimers -->
+    <div class="view-content">
+      <div id="wrapper">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+          <ul class="sidebar-nav" id="side_bar">
+            <li style="font-weight: bold; color: #e4e4e4;">
+              <h1>Project Details</h1>
+            </li>
+            <hr>
+          </ul>
+        </div>
+        <div name="map-info">                  
+          <div style="width:auto;height:500px;" id="map">
+          </div>
+<!--               <div id="link">
+            <a href="" width="90px" height="90px" onclick="heatmap(); return false">
+            <img alt="Heatmap" onmouseout="this.src='https://ses.jrc.ec.europa.eu/sites/ses.jrc.ec.europa.eu/files/default_images/heat1.jpg'" onmouseover="this.src='https://ses.jrc.ec.europa.eu/sites/ses.jrc.ec.europa.eu/files/default_images/heat2.jpg'" src="https://ses.jrc.ec.europa.eu/sites/ses.jrc.ec.europa.eu/files/default_images/heat1.jpg" title="Heatmap Overlay" width="90px" height="90px">
+            </a>
+          </div> -->
+        </div>
+        <!-- /#page-content-wrapper -->
+      </div>
+      <button type="button" class="collapsible">Disclaimer</button>
+      <div class="collapse">
+          <p> The information described in this map are preperaed by EDAMA Associaiton for Energy, Water and Environment and it is being provided to the recipients for general infotmation purposes only. This map is based on sources believed to be accurate. However, EDAMA Association do not warrant the accuaracy or completnece of any information showed in this map. EDAMA association assume no obligation to update any information contained herein. EDAMA Association will not be held liable for any direct or indirect damage incurred by the use of the informatino provided and will not provide any indemnities.</p>
+      </div>
+      <div style="text-align: center;">
+        <p>
+            <strong>Map information last update: November 2019</strong>
+        </p>
+      </div>
+      <div style="text-align: center;">
+        <p>
+            <strong>For any comments or feedback please send un email to research@edama.jo</strong>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/old.js"></script>
+  <link rel="stylesheet" href="/styles/modules/old.css"/>
+
+</section>

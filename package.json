@@ -1,0 +1,30 @@
+{
+  "name": "re_projects",
+  "version": "1.0.0",
+  "description": "a way to visualize markers data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbuKhalil95/RE_projects.git"
+  },
+  "author": "Yahya Abu Khalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbuKhalil95/RE_projects/issues"
+  },
+  "homepage": "https://github.com/AbuKhalil95/RE_projects#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "method-override": "^3.0.0",
+    "nodemon": "^2.0.4",
+    "pg": "^8.3.0",
+    "superagent": "^6.0.0"
+  }
+}

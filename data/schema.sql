@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS Locations;
+CREATE TABLE Locations (
+  id SERIAL PRIMARY KEY,
+  uri VARCHAR ( 255 ),
+);
