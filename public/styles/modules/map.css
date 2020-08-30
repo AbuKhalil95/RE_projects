@@ -1,0 +1,12 @@
+#map-container {
+  display: flex;
+  flex-flow: row-reverse;
+}
+#map {
+  height: 500px;
+  width: 50%;
+}
+
+#markers {
+  width: 50%;
+}

@@ -2,12 +2,11 @@
 // hide and show filters in home page
 $(document).ready(function () {
   initMap();
-
 });
 
 // --------------------- Functions --------------------- //
 
-// --------------------- burger menu
+// burger menu --------------------- //
 const hamburger = document.querySelector('.hamburger');
 const navLinks = document.querySelector('.nav-links');
 const links = document.querySelectorAll('.nav-links li');
@@ -22,4 +21,3 @@ hamburger.addEventListener('click', ()=>{
   //Hamburger Animation
   hamburger.classList.toggle('toggle');
 });
-
